@@ -10,7 +10,7 @@ URL,HTTP provides every site a “Universal Resource Locator” which helps in i
 Browser,It is a tool used for accessing a URL which will render visually on Screen
 Client,The browser can be called as client as it is consuming information
 Server,A system which shares certain data when client requests
-HTTP Messages,0  
+HTTP Messages,It is a way by which data is exchanged between client and server
 Request,A HTTP request is a message sent by client to the server for some information
 Response,A HTTP Response is a message sent by server to the client which may contain a URL or etc
 Domain Name,Every web page has a unique “Domain name” which helps in identifying a site
