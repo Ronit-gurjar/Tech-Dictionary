@@ -1,0 +1,19 @@
+term,defination
+Internet,Network of computer machines connected with each other (officially born in 1983)
+Internet Protocol Suite,Standard way with which Computers can communicate in a network
+IP address,A set of numbers given to a computer in a network to uniquely identify it (ex:-194.23.675.20)
+TCP,The computers share information using “Transfer Control Protocol”
+Packets,The data or information shared by computers in form of “Packets”
+Web,Web is a software that is used to interact with internet using HTTPs
+HTTP,“Hypertext Transfer Protocol” is used for transporting information between client and server
+URL,HTTP provides every site a “Universal Resource Locator” which helps in identifying a site
+Browser,It is a tool used for accessing a URL which will render visually on Screen
+Client,The browser can be called as client as it is consuming information
+Server,A system which shares certain data when client requests
+HTTP Messages,0  
+Request,A HTTP request is a message sent by client to the server for some information
+Response,A HTTP Response is a message sent by server to the client which may contain a URL or etc
+Domain Name,Every web page has a unique “Domain name” which helps in identifying a site
+Registrar,Someone that register a Domain name to a specific URL
+DNS,“Domain name System” routes the Domain names to a IP address of a server
+HTML,“Hypertext Markup Language” is a Markup language used to provide Structure to a site
